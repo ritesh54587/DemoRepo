@@ -6,7 +6,7 @@ function App() {
   return (
     
     <div className="App">
-     <h1>Welcome to MyApp</h1>
+     <h1>Welcome to MyApp Page</h1>
      <Router>
 <Switch>
   <Route path="/testing" component={Testing}></Route>
